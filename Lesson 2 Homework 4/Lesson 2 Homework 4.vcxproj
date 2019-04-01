@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{CE1C6B96-0E4F-4A07-8801-ECF9D163F3BD}</ProjectGuid>
+    <ProjectGuid>{F874A05C-4F07-4D10-9ACC-7D610852A7E2}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Lesson2Homework2</RootNamespace>
+    <RootNamespace>Lesson2Homework4</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
-    <ProjectName>Lesson 2 Homework 2</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -155,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lesson 2 Homework 2.cpp" />
+    <ClCompile Include="Lesson 2 Homework 4.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
