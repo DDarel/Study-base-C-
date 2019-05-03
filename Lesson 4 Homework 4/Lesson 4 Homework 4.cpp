@@ -19,4 +19,5 @@ int main()
 			i--;
 		}
 		cout << rev << endl;
+		return 0;
 }
